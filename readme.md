@@ -2,6 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/5j9ku4vkjbtqk99c?svg=true)](https://ci.appveyor.com/project/JulieSoboleva/purefunctions)
 
+
 ## Легенда
 
 Во время игры вам необходимо будет отображать полоску жизни над игровым персонажем. Для сигнализации пользователю вы решили ввести цветовую индикацию:
